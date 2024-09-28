@@ -29,8 +29,6 @@
   The problems are solved in a variety of programming languages, including:
   <ul>
     <li>C++</li>
-    <li>Python</li>
-    <li>Java</li>
     <li>And more!</li>
   </ul>
 </p>
@@ -49,9 +47,12 @@
 
 <h2>📈 Progress Tracker</h2>
 
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/stats/your-username-here" alt="LeetCode Stats">
-</p>
+<ul>
+  <li>Problems Solved: <b>4</b></li>
+  <li>Languages Used: <b>C++</b></li>
+  <li>Daily Streak: <b>8 Days</b></li>
+</ul>
+
 
 <p align="center">
   <em>Keep an eye on my progress and feel free to contribute or raise issues!</em>
@@ -62,9 +63,8 @@
 <h2>🔗 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://github.com/your-username/">GitHub</a> •
-  <a href="https://twitter.com/your-twitter/">Twitter</a>
+  <a href="www.linkedin.com/in/harshal-ghoradkar-663205258">LinkedIn</a> •
+  <a href="https://github.com/Harshal279"GitHub</a> •
 </p>
 
 <p align="center">
