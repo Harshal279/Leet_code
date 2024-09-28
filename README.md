@@ -1,95 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LeetCode Problem Repository</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #282c34;
-            color: white;
-            text-align: center;
-            padding: 2rem 0;
-        }
-        h1 {
-            font-size: 3rem;
-            margin: 0;
-        }
-        .container {
-            width: 90%;
-            max-width: 1000px;
-            margin: 2rem auto;
-            padding: 2rem;
-            background-color: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-        }
-        .section-title {
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            color: #007acc;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid #ddd;
-        }
-        ul li:last-child {
-            border-bottom: none;
-        }
-        a {
-            color: #007acc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background-color: #282c34;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>LeetCode Problem Repository</h1>
-        <p>A collection of solved LeetCode problems.</p>
-    </header>
-    
-    <div class="container">
-        <h2 class="section-title">Repository Overview</h2>
-        <p>Welcome to my LeetCode repository! This repository is a collection of problems I've solved on LeetCode, covering a wide range of topics such as algorithms, data structures, dynamic programming, and more.</p>
-        
-        <h2 class="section-title">Problem Categories</h2>
-        <ul>
-            <li><strong>Arrays</strong> - <a href="#arrays">View Problems</a></li>
-            <li><strong>Strings</strong> - <a href="#strings">View Problems</a></li>
-            <li><strong>Dynamic Programming</strong> - <a href="#dynamic">View Problems</a></li>
-            <li><strong>Linked Lists</strong> - <a href="#linkedlists">View Problems</a></li>
-            <li><strong>Trees & Graphs</strong> - <a href="#trees">View Problems</a></li>
-        </ul>
+<h1 align="center">🚀 My LeetCode Journey 🚀</h1>
 
-        <h2 class="section-title">How to Use</h2>
-        <p>Each folder contains the problem statement, my solution, and an explanation of my approach. You can easily navigate through the problem categories and refer to specific problems as needed.</p>
-        
-        <h2 class="section-title">Contributions</h2>
-        <p>Feel free to fork the repository, raise issues, or suggest improvements. I'm always looking for new challenges and ways to optimize my solutions!</p>
-    </div>
-    
-    <footer>
-        <p>Created with ❤️ by [Your Name] | Connect on <a href="https://github.com/[YourGithubUsername]">GitHub</a></p>
-    </footer>
-</body>
-</html>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-brightgreen" alt="Problems Solved Badge">
+  <img src="https://img.shields.io/badge/Languages-C%2B%2B%2C%20Python%2C%20Java%2C%20More-blue" alt="Languages Badge">
+</p>
+
+<p align="center">
+  <em>"Consistent practice makes perfect! This repository is a record of my journey through solving LeetCode challenges, aiming to strengthen problem-solving and coding skills."</em>
+</p>
+
+---
+
+<h2>📂 Repository Structure</h2>
+
+<ul>
+  <li><b>Algorithms</b>: Efficient solutions to algorithmic problems.</li>
+  <li><b>Data Structures</b>: Implementations using arrays, linked lists, stacks, queues, etc.</li>
+  <li><b>Dynamic Programming</b>: Solutions to DP-based problems.</li>
+  <li><b>Graph Theory</b>: Challenges related to graphs and trees.</li>
+  <li><b>Backtracking</b>: Recursive solutions to problems requiring exploration of possibilities.</li>
+</ul>
+
+---
+
+<h2>💻 Languages Used</h2>
+
+<p>
+  The problems are solved in a variety of programming languages, including:
+  <ul>
+    <li>C++</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>And more!</li>
+  </ul>
+</p>
+
+---
+
+<h2>✨ Highlights</h2>
+
+<ul>
+  <li><b>Daily Practice</b>: I aim to solve at least 1 problem every day.</li>
+  <li><b>Optimized Solutions</b>: The focus is on time and space complexity improvements.</li>
+  <li><b>Comprehensive Explanations</b>: Each solution includes comments and explanations for better understanding.</li>
+</ul>
+
+---
+
+<h2>📈 Progress Tracker</h2>
+
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/stats/your-username-here" alt="LeetCode Stats">
+</p>
+
+<p align="center">
+  <em>Keep an eye on my progress and feel free to contribute or raise issues!</em>
+</p>
+
+---
+
+<h2>🔗 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
+  <a href="https://github.com/your-username/">GitHub</a> •
+  <a href="https://twitter.com/your-twitter/">Twitter</a>
+</p>
+
+<p align="center">
+  <b>Star the repository ⭐ if you find it useful!</b>
+</p>
