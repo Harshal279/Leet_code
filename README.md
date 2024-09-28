@@ -1,11 +1,6 @@
 <h1 align="center">🚀 My LeetCode Journey 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-brightgreen" alt="Problems Solved Badge">
-  <img src="https://img.shields.io/badge/Languages-C%2B%2B%2C%20Python%2C%20Java%2C%20More-blue" alt="Languages Badge">
-</p>
-
-<p align="center">
   <em>"Consistent practice makes perfect! This repository is a record of my journey through solving LeetCode challenges, aiming to strengthen problem-solving and coding skills."</em>
 </p>
 
