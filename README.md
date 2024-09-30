@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/harshal-ghoradkar-663205258">LinkedIn</a> •
-  <a href="https://github.com/Harshal279">GitHub</a> •
+  <a href="https://github.com/Harshal279">GitHub</a>
 </p>
 
 <p align="center">
